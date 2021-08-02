@@ -1,7 +1,11 @@
+# Running HiBench Benchmark Suite on a single-node Hadoop Cluster
 
+This repository is a technical documentation which was prepared as a warm-up session for my master's thesis work about benchmarking managed Hadoop systems.  
 
-This section aims to play around with essential aspects in a virtual environment before running benchmarks on PaaS systems.
+It was relatively easy to find sources on implementing Hadoop in virtual environment, but especially as a newbie on benchmarking concepts, it was not as easy to make it up running benchmark on it.  
 
-In here, installation of Hadoop and other elements are documented, then followed by HiBench installation and execution.
+So, if there are people out there who wanna play around with HiBench on a virtual Hadoop environment, I hope the instructions here would help them in making their first steps.  
 
-This section is not directly related to the study, but it may help other beginners on issues how to manually install Hadoop environment, how to build and run HiBench, etc...
+I cannot guarantee any assistance if you get stuck in any of the steps, but I tried my best to give a detailed documentation as possible.  
+
+Cheers and happy benchmarking!
