@@ -2,7 +2,7 @@
 
 This repository is a technical documentation which was prepared as a warm-up session for my master's thesis work about benchmarking managed Hadoop systems by leveraging HiBench.  
 
-It was relatively easy to find sources on implementing Hadoop in a virtual environment, but especially as a newbie on benchmarking concepts, it was not as easy to make it up for benchmarking.  
+During the warmups, it was relatively easy to find sources on implementing Hadoop in a virtual environment, but especially as a newbie on benchmarking concepts, it was not as easy to make it up for benchmarking.  
 
 So, if there are people out there who wanna play around with HiBench on a virtual Hadoop environment, I hope the instructions here would help them in making their first steps.  
 
